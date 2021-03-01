@@ -1,0 +1,47 @@
+
+
+body {
+  height: 100px;
+  width: 60vh;
+  background:#BCC29D;
+  margin: 0;
+}
+
+.background {
+  background-color:  #DAB348;
+  position: relative;
+  top: 100%;
+  right: 0;
+  height: 10vh;
+  width: 70vh;
+  border-top: 6px solid black;
+  display: block;
+  text-decoration: none;
+
+}
+
+
+.text-1 {
+  position: relative;
+  top: 50px;
+  left: 10%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-family: linotype-sabon, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
